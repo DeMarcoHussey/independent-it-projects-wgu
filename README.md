@@ -27,3 +27,6 @@ This portfolio shows hands-on experience in systems administration, networking, 
 Windows Server/AD/DHCP/DNS • Linux/Raspberry Pi • Microsoft 365 • HTML/CSS/JS • Git • Networking (DHCP/Wi-Fi/VPN)
 
 **Created by:** DeMarco Hussey • **Email:** demarco.a.hussey@outlook.com • **Portfolio:** https://demarcohussey.github.io/demarco-hussey-portfolio
+## 📄 Sample Diagnostics Logs
+- See ssets/logs/ for captured outputs from macOS Wi-Fi diagnostics and connectivity tests.
+- Includes RSSI/Noise, SNR, gateway reachability, DNS resolution, and external pings.
