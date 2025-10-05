@@ -35,3 +35,5 @@ Windows Server/AD/DHCP/DNS • Linux/Raspberry Pi • Microsoft 365 • HTML/CSS
 - Includes RSSI/Noise, SNR, gateway reachability, DNS resolution, and external pings.
 ## 📄 Sample Diagnostics Logs
 - Latest example: [assets/logs/](assets/logs/)
+## 📸 Screenshot
+![Diagnostics log sample](assets/readme_screenshot.png)
