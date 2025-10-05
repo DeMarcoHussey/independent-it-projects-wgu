@@ -33,3 +33,5 @@ Windows Server/AD/DHCP/DNS • Linux/Raspberry Pi • Microsoft 365 • HTML/CSS
 ## 📄 Sample Diagnostics Logs
 - See ssets/logs/ for captured outputs from macOS Wi-Fi diagnostics and connectivity tests.
 - Includes RSSI/Noise, SNR, gateway reachability, DNS resolution, and external pings.
+## 📄 Sample Diagnostics Logs
+- Latest example: [assets/logs/](assets/logs/)
